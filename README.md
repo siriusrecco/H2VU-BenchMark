@@ -116,10 +116,11 @@ If you find our work helpful for your research, please consider citing our work.
 
 ## 📜 Related Works
 
-Explore our related researches:
+We appreciate the contributions of Related Works to our work:
 
 -  **[MME]** [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394)
 
--  **[MME-Survey]** [MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs](https://arxiv.org/pdf/2411.15296)
-
+-  **[OVO-Bench]** [OVO-Bench: How Far is Your Video-LLMs from Real-World Online Video Understanding?](https://arxiv.org/pdf/2411.15296)
+-  **[VideoVista]** [VideoVista: A Versatile Benchmark for Video Understanding and Reasoning](https://arxiv.org/abs/2406.11303)
+-  **[LongVideoBench]** [LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding](https://arxiv.org/abs/2407.15754)
 
