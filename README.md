@@ -1,5 +1,19 @@
 
 # H2VU-Benchmark: A Comprehensive Benchmark for Hierarchical Holistic Video Understanding
+<div>
+  Qi Wu<sup>*</sup>,
+  Quanlong Zheng<sup>*</sup>,
+  Yanhao Zhang<sup>†♠</sup>,
+  Junlin Xie,
+  Jinguo Luo,
+  Kuo Wang,
+  Peng Liu,
+  Qingsong Xie,
+  Ru Zhen,
+  Zhenyu Yang,
+  Haonan Lu<sup>†</sup>,
+ 
+</div>
 
 ![VideoQA](https://img.shields.io/badge/Task-VideoQA-red) 
 ![Multi-Modal](https://img.shields.io/badge/Task-Multi--Modal-red) 
